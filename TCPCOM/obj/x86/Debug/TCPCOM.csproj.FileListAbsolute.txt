@@ -1,0 +1,57 @@
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\bin\Debug\TCPCOM.exe
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\bin\Debug\TCPCOM.pdb
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\obj\x86\Debug\TCPCOM.Form1.resources
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\obj\x86\Debug\TCPCOM.Properties.Resources.resources
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\obj\x86\Debug\TCPCOM.csproj.GenerateResource.Cache
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\obj\x86\Debug\TCPCOM.exe
+C:\Users\ALEX_HU\AppData\Local\Temporary Projects\TCPCOM\obj\x86\Debug\TCPCOM.pdb
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.exe
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.pdb
+D:\C#_ex\TCPCOM\TCPCOM\bin\Debug\TCPCOM.exe
+D:\C#_ex\TCPCOM\TCPCOM\bin\Debug\TCPCOM.pdb
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.Form1.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.Properties.Resources.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.csproj.GenerateResource.Cache
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.csprojResolveAssemblyReference.cache
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.Tool_SocketClient.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.Tool_SocketServer.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.MainForm.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.DialogCreateClient.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.DialogCreateServer.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.ucSocketClient.resources
+D:\C#_ex\TCPCOM\TCPCOM\obj\x86\Debug\TCPCOM.ucSocketServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.exe
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.pdb
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\bin\Debug\TCPCOM.exe.config
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\bin\Debug\TCPCOM.exe
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\bin\Debug\TCPCOM.pdb
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.csprojResolveAssemblyReference.cache
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.Form1.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.MainForm.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.DialogCreateClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.DialogCreateServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.Properties.Resources.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.Tool_SocketClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.Tool_SocketServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.ucSocketClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.ucSocketServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251105\TCPCOM\obj\x86\Debug\TCPCOM.csproj.GenerateResource.Cache
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\bin\Debug\TCPCOM.exe.config
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.exe
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.pdb
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\bin\Debug\TCPCOM.exe
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\bin\Debug\TCPCOM.pdb
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.csprojResolveAssemblyReference.cache
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.Form1.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.MainForm.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.DialogCreateClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.DialogCreateServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.Properties.Resources.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.Tool_SocketClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.Tool_SocketServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.ucKeyencePLC.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.ucSocketClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.ucSocketServer.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.csproj.GenerateResource.Cache
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.ucModbusTCPClient.resources
+F:\AIProgram\TCPCOM\TCPCOM-20251106\TCPCOM\obj\x86\Debug\TCPCOM.ucModbusTCPServer.resources

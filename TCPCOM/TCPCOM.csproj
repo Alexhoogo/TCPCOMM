@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{660EF534-D1E4-40B2-938F-A388C0DEAEC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TCPCOM</RootNamespace>
+    <AssemblyName>TCPCOM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>TCP连接.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csConClient.cs" />
+    <Compile Include="DialogCreateMitsubishiPLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCreateMitsubishiPLC.designer.cs">
+      <DependentUpon>DialogCreateMitsubishiPLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DialogCreateModbusTCPClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCreateModbusTCPClient.designer.cs">
+      <DependentUpon>DialogCreateModbusTCPClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DialogCreateModbusTCPServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCreateModbusTCPServer.designer.cs">
+      <DependentUpon>DialogCreateModbusTCPServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DialogCreatePLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCreatePLC.designer.cs">
+      <DependentUpon>DialogCreatePLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModbusConnectionClient.cs" />
+    <Compile Include="DialogCreateClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCreateClient.Designer.cs">
+      <DependentUpon>DialogCreateClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DialogCreateServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCreateServer.Designer.cs">
+      <DependentUpon>DialogCreateServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tool_SocketClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tool_SocketClient.Designer.cs">
+      <DependentUpon>Tool_SocketClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tool_SocketServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tool_SocketServer.Designer.cs">
+      <DependentUpon>Tool_SocketServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucKeyencePLC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucKeyencePLC.Designer.cs">
+      <DependentUpon>ucKeyencePLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMitsubishiPLC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMitsubishiPLC.designer.cs">
+      <DependentUpon>ucMitsubishiPLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucModbusTCPClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucModbusTCPClient.designer.cs">
+      <DependentUpon>ucModbusTCPClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucModbusTCPServer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucModbusTCPServer.designer.cs">
+      <DependentUpon>ucModbusTCPServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSocketClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSocketClient.designer.cs">
+      <DependentUpon>ucSocketClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSocketServer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSocketServer.designer.cs">
+      <DependentUpon>ucSocketServer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogCreateClient.resx">
+      <DependentUpon>DialogCreateClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogCreateServer.resx">
+      <DependentUpon>DialogCreateServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tool_SocketClient.resx">
+      <DependentUpon>Tool_SocketClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tool_SocketServer.resx">
+      <DependentUpon>Tool_SocketServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucKeyencePLC.resx">
+      <DependentUpon>ucKeyencePLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucModbusTCPClient.resx">
+      <DependentUpon>ucModbusTCPClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucModbusTCPServer.resx">
+      <DependentUpon>ucModbusTCPServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSocketClient.resx">
+      <DependentUpon>ucSocketClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSocketServer.resx">
+      <DependentUpon>ucSocketServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TCP连接.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
